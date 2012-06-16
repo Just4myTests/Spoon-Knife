@@ -1,5 +1,5 @@
 if(fav=="Tobi") {
-	print "This is your favourite character"
+	print "This is Tobi favourite character"
 } 
 else {
 	print "This is not your favourite character"
