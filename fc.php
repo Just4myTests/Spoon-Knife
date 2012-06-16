@@ -1,4 +1,4 @@
-if(fav==true) {
+if(fav=="Tobi") {
 	print "This is your favourite character"
 } 
 else {
